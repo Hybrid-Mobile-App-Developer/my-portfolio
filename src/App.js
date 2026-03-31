@@ -100,7 +100,7 @@ function App() {
       <section id="contact" className="py-20 text-center px-5">
         <h2 className="text-3xl font-semibold mb-5">Contact</h2>
 
-        <p className="text-gray-400">📧 your-email@gmail.com</p>
+        <p className="text-gray-400">📧 anandkumarcrpatna@gmail.com</p>
         <p className="text-gray-400 mt-2">🔗 LinkedIn | GitHub</p>
       </section>
 
