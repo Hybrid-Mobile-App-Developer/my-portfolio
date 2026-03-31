@@ -101,7 +101,18 @@ function App() {
         <h2 className="text-3xl font-semibold mb-5">Contact</h2>
 
         <p className="text-gray-400">📧 anandkumarcrpatna@gmail.com</p>
-        <p className="text-gray-400 mt-2">🔗 LinkedIn | GitHub</p>
+        <p className="text-gray-400 mt-2">
+          🔗{" "}
+          <a
+            href="https://www.linkedin.com/in/anandkr-android/"
+            target="_blank"
+            rel="noreferrer"
+            className="text-blue-400 hover:text-blue-300 underline underline-offset-4"
+          >
+            LinkedIn
+          </a>{" "}
+          | GitHub
+        </p>
       </section>
 
       {/* FOOTER */}
